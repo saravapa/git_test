@@ -1,0 +1,18 @@
+EX 1. E-COMMERCE (Orientat a llibres)
+
+Funcionalitats que ha de tenir el servei web:
+
+-Veure llibres a l'atzar (catàleg llibres)
+-Cercar un llibre (Cercador)
+	-Filtrar llibres per autor o categoria (Cercador avançat)
+-Seleccionar llibre per veure els detalls i poder-lo comprar
+	-Descripció
+	-Títol
+	-Autor
+	-Preu
+	-Compra
+		- Venda. Disminuir l'estoc.
+		-Registre de compres que realitzen els usuaris
+-Poder introduir nous llibres
+-Retirar o modificar info d'un llibre
+
