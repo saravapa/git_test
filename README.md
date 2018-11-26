@@ -18,3 +18,10 @@ FRONT-END
 Exercici 1 - e-commerce (llista esquemàtica)
 https://github.com/saravapa/git_test.git
 
+Exercici 2 - disseny pag web e-commerce
+https://github.com/saravapa/git_test.git
+
+Exercici 3 - Nom i cognom JS
+https://github.com/saravapa/git_test.git
+
+
